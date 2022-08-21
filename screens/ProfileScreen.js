@@ -10,7 +10,7 @@ const ProfileScreen = () => {
             justifyContent: 'center',
             alignItems: 'center',
         }}>
-            <Text style={{fontSize: 30, fontWeight: 'bold', letterSpacing: 0}}>
+            <Text style={{fontSize: 30, fontWeight: 'bold', letterSpacing: 1}}>
             Profile
             </Text>
         </View>

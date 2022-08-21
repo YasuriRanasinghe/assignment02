@@ -37,7 +37,7 @@ const App = () => {
         inactiveTinColor:'black',
         showLabel: false,
         style: {
-          backgroundColor: '#fdf5e6',
+          backgroundColor: '#ffffff',
           height: 60
         },
       }}>

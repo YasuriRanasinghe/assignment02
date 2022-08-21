@@ -6,7 +6,7 @@ const DiscoverScreen = () => {
         <View
         style={{
             height: '100%',
-            backgroundColor: '#8fbc8f',
+            backgroundColor: '#d3d3d3',
             justifyContent: 'center',
             alignItems: 'center',
         }}>

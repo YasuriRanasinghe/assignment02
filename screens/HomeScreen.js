@@ -6,7 +6,7 @@ const HomeScreen = () => {
         <View
         style={{
             height: '100%',
-            backgroundColor: '#f8f8ff',
+            backgroundColor: '#d3d3d3',
             justifyContent: 'center',
             alignItems: 'center',
         }}>

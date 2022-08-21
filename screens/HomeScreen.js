@@ -10,7 +10,7 @@ const HomeScreen = () => {
             justifyContent: 'center',
             alignItems: 'center',
         }}>
-            <Text style={{fontSize: 30, fontWeight: 'bold', letterSpacing: 1}}>
+            <Text style={{fontSize: 30, fontWeight: 'bold', letterSpacing: 0}}>
             Home
             </Text>
         </View>
